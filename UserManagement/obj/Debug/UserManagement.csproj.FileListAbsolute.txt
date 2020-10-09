@@ -1,0 +1,13 @@
+C:\Users\leminhtuan\source\repos\UserManagement\bin\Debug\UserDB.mdf
+C:\Users\leminhtuan\source\repos\UserManagement\bin\Debug\UserDB_log.ldf
+C:\Users\leminhtuan\source\repos\UserManagement\bin\Debug\UserManagement.exe.config
+C:\Users\leminhtuan\source\repos\UserManagement\bin\Debug\UserManagement.exe
+C:\Users\leminhtuan\source\repos\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.Form1.resources
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.Form2.resources
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.Forms.Form3.resources
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.exe
+C:\Users\leminhtuan\source\repos\UserManagement\obj\Debug\UserManagement.pdb
